@@ -72,11 +72,4 @@ Bu klasör içerisinde çeşitli konularda hazırlanmış bağımsız Python pro
 - **İçerik**: Sabit metin içeriklidir, çıktı üretmeye yöneliktir.
 - **Kullanım Alanı**: String işlemleri, karakter dizisi kullanımı.
 
----
 
-## Kullanım
-
-Her `.py` dosyası doğrudan Python ile çalıştırılabilir:
-
-```bash
-python dosya_adi.py
